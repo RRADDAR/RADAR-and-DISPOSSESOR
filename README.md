@@ -1,4 +1,6 @@
 # RADAR-and-DISPOSSESOR
+https://socradar.io/dark-web-profile-dispossessor-ransomware/
+
 Latest news about RADAR and DISPOSSESSOR leak blog and detailed brief introduction - https://go.0xfc.de/sdzw9w
 
 RADAR and DISPOSSESSOR team's brief introduction:
@@ -38,6 +40,11 @@ Latest research reports about our Dispossessor team:
 Linkedin links about Dispossessor TOP #2 Ransomware team in 2024 due latest statistics:
 1) https://www.linkedin.com/pulse/peek-dark-web-unveiling-most-prolific-ransomware-rasheen-ycqhe
 2) https://www.linkedin.com/posts/redteam-creations-limited_dispossessor-top-2-ransomware-team-in-2024-activity-7220715142131429376-nV7K?utm
+
+Other news sources:
+https://ransomwareattacks.halcyon.ai/attacks/fidelia-consulting-hit-by-dispossessor-group-ransomware-impact-and-response
+https://ransomwareattacks.halcyon.ai/attacks/ransomware-attack-on-umaps-by-dispossessor-group-exposes-critical-data
+https://ransomwareattacks.halcyon.ai/attacks/ransomware-attack-on-umbrella-properties-by-dispossessor-group-exposes-cybersecurity-flaws
 
 Due to the latest interview between Red Hot Cyber and the DISPOSSESSOR team, it became known that they breached all ~340 companies when they were LockBit affiliates but later left the group to establish their own operation. This transition was made possible by recovering data from their cold backups. 
 The DISPOSSESSOR team emphasized that their decision to part ways with LockBit stemmed from a desire to innovate within the cybercrime landscape and offer unique services beyond traditional ransomware tactics. They have adopted a model that combines ransomware with data resale services, allowing them to monetize their attacks even when ransom payments are not made.
